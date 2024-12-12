@@ -2,8 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000; /* Fond noir */
-    color: #fff; /* Texte blanc */
+    background-color: #000;
+    /* Fond noir */
+    color: #fff;
+    /* Texte blanc */
 }
 
 header {
@@ -36,12 +38,15 @@ main {
     padding: 20px;
 }
 
-h1, h2 {
-    color: #fff; /* Titres en blanc */
+h1,
+h2 {
+    color: #fff;
+    /* Titres en blanc */
 }
 
 p {
-    color: #ccc; /* Texte légèrement grisé pour le contraste */
+    color: #ccc;
+    /* Texte légèrement grisé pour le contraste */
     line-height: 1.6;
 }
 
@@ -73,4 +78,17 @@ a.button {
 
 a.button:hover {
     background-color: #0056b3;
+}
+
+.images {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.images img {
+    max-width: 500px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
 }
