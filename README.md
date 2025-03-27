@@ -1,4 +1,4 @@
-# Portfolio de [Raphaël LEMÉE] (En cours)
+# Portfolio de Raphaël LEMÉE (En cours)
 
 Bienvenue sur mon portfolio ! Découvrez mes projets et réalisations en développement informatique.
 
